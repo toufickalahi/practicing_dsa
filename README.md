@@ -1,2 +1,2 @@
-# practicing_dsa
+dsa-journey
 algorithm-mastery
